@@ -2,4 +2,7 @@ main(){} a파일 생성
 
 a 파일의 수정1
 
-function_k:호출()
+FUNCTON_A(): 호출하다1
+FUNCTON_A(): 호출하다2
+FUNCTON_A(): 호출하다3
+
